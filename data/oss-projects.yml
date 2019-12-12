@@ -41,7 +41,7 @@
 - name: Arrow Meta
   description: A functional companion to Kotlin's Compiler and IDE
   type: Library
-  link: http://meta.arrow-kt.io
+  link: https://meta.arrow-kt.io
 
 - name: KotlinPrimavera
   description: Kotlin Wrapper for Spring Framework
